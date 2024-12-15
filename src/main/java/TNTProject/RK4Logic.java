@@ -43,7 +43,7 @@ public class RK4Logic {
             x = x + h;
         }
 
-        // * Return the final value of y at x = xEnd
+        // ? Return the final value of y at x = xEnd
         return y;
     }
 
